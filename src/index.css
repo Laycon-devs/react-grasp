@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+  background: darkcyan;
+}
+.indigo{
+  /* background: #02000e; */
+}
+.colorbox{
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  border: 2px solid white;
+}
